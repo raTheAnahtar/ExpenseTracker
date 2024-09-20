@@ -18,3 +18,9 @@ ExpenseTracker is a simple Android application built with **Kotlin** and **Jetpa
 - **Room Database Integration**: To persist expenses and currencies locally for offline access.
 - **Firebase Integration**: For syncing data across devices and cloud-based storage, enabling data backup and synchronization.
 - **Graphs and Charts**: To visualize spending trends and provide more insights into user expenses with visual aids.
+
+## Screenshots
+<div style="display: flex; justify-content: space-around;">
+  <img src="screenshots/screenshot1.png" alt="Expense Tracker Screenshot 1" width="300"/>
+  <img src="screenshots/screenshot2.png" alt="Expense Tracker Screenshot 2" width="300"/>
+</div>
