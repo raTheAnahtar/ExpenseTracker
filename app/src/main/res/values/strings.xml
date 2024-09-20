@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+
+    <!--region Expense Item -->
+    <string name="expense_icon">expense icon</string>
+    <!--endregion Expense Item-->
+
+    <!--region Expense Summary -->
+    <string name="total_amount">Total Monthly Spending</string>
+    <string name="expense_count">Number of Transactions</string>
+    <string name="category_expenses">Category Spending</string>
+    <!--endregion Expense Summary -->
+
+    <!--region Expense Category -->
+    <string name="category_food">Food</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_health">Health</string>
+    <string name="category_transportation">Transportation</string>
+    <string name="category_other">Other</string>
+    <!--endregion Expense Category -->
+
+    <!--region Months-->
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+    <!--endregion Months-->
+
+</resources>
